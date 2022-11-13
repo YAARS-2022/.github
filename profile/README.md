@@ -17,3 +17,12 @@ For the sender device, we mainly used LoRa and GPS Module (Neo-6M). When we test
 ### Gradle issues:
 When we tried to use a package for notification in the android app, there was an error while compiling the application. It took some time to find exactly which part of the code caused the problem. We had to edit the dependencies and use a certain version of AndroidX lifecycle view-model.
 
+![microcontrollers](https://user-images.githubusercontent.com/18495316/201501201-c674851f-732f-4640-8a12-f3ff43369a5d.png)
+
+![pcb](https://user-images.githubusercontent.com/18495316/201501213-596db44c-0649-42a4-ac9f-6c4faa2d8a3b.png)
+
+![sahayatri-webapp](https://user-images.githubusercontent.com/18495316/201501234-70bded02-2fda-4331-b03c-c7e86c0bca35.png)
+
+
+<img src="https://user-images.githubusercontent.com/18495316/201501218-69abda2d-2ba7-4647-bd30-cadb3e95d50f.jpeg" width="200" />
+<img src="https://user-images.githubusercontent.com/18495316/201501226-0ed6ac5a-f880-42b4-84ea-62b8133d0d94.jpeg" width="200" />
